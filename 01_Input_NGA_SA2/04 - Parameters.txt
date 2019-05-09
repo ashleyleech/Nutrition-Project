@@ -1,0 +1,11 @@
+DebugOn/1
+
+Sim_NumSubjects/100000
+Sim_OutputInterval/10000
+
+deltaTime/1
+
+MaxAge/100
+MaxSimDuration/100
+discountRate/0.03
+StartYear/2015
