@@ -1,0 +1,6 @@
+01_Input_ETH_SA2/01 - DiseasePrevalence.txt
+01_Input_ETH_SA2/02 - MortRisk.txt
+01_Input_ETH_SA2/03 - DiseaseRR.txt
+01_Input_ETH_SA2/04 - Parameters.txt
+01_Input_ETH_SA2/05 - Policies.txt
+01_Input_ETH_SA2/06 - Population.txt
