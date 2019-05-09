@@ -1,0 +1,4 @@
+Name,country,RR_mortality,RR_diarrhea,RR_stunting,RR_anemia
+Baseline,IND,1.00,1.00,1.00,1.00
+MNSachets,IND,1,1,1,0.68DietDivMediaCampaign,IND,1,1,1,1HomeGardens,IND,1,1,0.89,1
+
