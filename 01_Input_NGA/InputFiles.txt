@@ -1,0 +1,6 @@
+01_Input_NGA/01 - DiseasePrevalence.txt
+01_Input_NGA/02 - MortRisk.txt
+01_Input_NGA/03 - DiseaseRR.txt
+01_Input_NGA/04 - Parameters.txt
+01_Input_NGA/05 - Policies.txt
+01_Input_NGA/06 - Population.txt

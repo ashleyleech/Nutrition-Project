@@ -1,0 +1,6 @@
+Name,country,RR_mortality,RR_diarrhea,RR_stunting,RR_anemia
+Baseline,NGA,1.00,1.00,1.00,1.00
+ConditCashTrans,NGA,1.00,1.00,1.00,1.00
+HHAnimAgProduc,NGA,0.83,1.00,0.89,0.99
+CompFoodProcess,NGA,0.99,0.94,0.89,0.68
+SSBTaxFVSubsidy,NGA,0.99,1.00,1.00,1.00
