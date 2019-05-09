@@ -1,0 +1,8 @@
+Name,country,RR_mortality,RR_diarrhea,RR_stunting,RR_anemia
+Baseline,ETH,1.00,1.00,1.00,1.00
+ConditLivstkTrans,ETH,0.92,0.96,0.89,1.00
+ConditFoodTrans,ETH,1.00,0.99,0.89,0.98
+MediaEdCamp,ETH,1.00,1.00,1.00,0.93
+Edutainment,ETH,0.98,0.99,0.89,0.97
+CompFoodProduction,ETH,1.00,0.87,1.00,0.68
+

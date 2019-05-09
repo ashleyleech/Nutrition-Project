@@ -1,0 +1,6 @@
+01_Input_ETH/01 - DiseasePrevalence.txt
+01_Input_ETH/02 - MortRisk.txt
+01_Input_ETH/03 - DiseaseRR.txt
+01_Input_ETH/04 - Parameters.txt
+01_Input_ETH/05 - Policies.txt
+01_Input_ETH/06 - Population.txt
